@@ -3,7 +3,7 @@ Digit Recognition using SVM and NN from Scikit-learn package
 
 ## Data from MNIST database.
 
-The original database can be here: http://yann.lecun.com/exdb/mnist/
+The original database can be found here: http://yann.lecun.com/exdb/mnist/
 
 The CSV files of the original database:
 
@@ -22,13 +22,19 @@ dig-rec-nn-mnist.py uses a Neural Network.
 
 It has one hidden layer with 30 neurons.
 
+#### Python version - 2.7.12 ###
 
+More on NN here: 
 
-#### Python version - 2.7.XX ####
+http://yann.lecun.com/exdb/publis/pdf/matan-90.pdf
+
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+http://neuralnetworksanddeeplearning.com/chap1.html
 
 ## Packages Required ##
 
-Numpy
+Numpy (1.12)
 
-Scikit-Learn
+Scikit-Learn (0.18.1)
 
