@@ -22,15 +22,13 @@ dig-rec-nn-mnist.py uses a Neural Network.
 
 It has one hidden layer with 30 neurons.
 
-#### Python version - 2.7.12 ###
-
 More on NN here: 
 
 http://yann.lecun.com/exdb/publis/pdf/matan-90.pdf
 
 http://neuralnetworksanddeeplearning.com/chap1.html
 
-http://neuralnetworksanddeeplearning.com/chap1.html
+#### Python version - 2.7.12 ###
 
 ## Packages Required ##
 
